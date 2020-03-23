@@ -9,7 +9,7 @@ Wenting
 
 ### Motivation
 
-The laboratory of Drs. Robert Farese, Jr. and Tobias Walther at the
+ laboratory of TheDrs. Robert Farese, Jr. and Tobias Walther at the
 Harvard T.H. Chan School of Pulic Health has been using LipidSearch
 software (version 4.1) for some time, currently we build a pipeline
 based on Mass Spectrometry data processed by this software. We filtered
